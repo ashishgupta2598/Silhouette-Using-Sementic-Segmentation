@@ -1,2 +1,3 @@
 # Silhouette-Using-Sementic-Segmentation
-Please visit PPT For better understading
+Please visit PDF For better understading
+
